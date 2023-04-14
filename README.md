@@ -6,8 +6,19 @@
 
 The EvoloPy toolbox provides classical and recent nature-inspired metaheuristic for the global optimization. The list of optimizers that have been implemented includes Particle Swarm Optimization (PSO), Bat Algorithm (BA), Firefly Algorithm (FA), Cuckoo Search (CS), and Whale Optimization Algorithm (WOA). The full list of implemented optimizers is available here https://github.com/7ossam81/EvoloPy/wiki/List-of-optimizers
 
+
 ## Installation
 - Python 3.xx is required.
+
+## Google Colaboratory
+
+The code can be run directly in Google Colaboratory. It is good practice to create a copy of the Google Colaboratory and then perform the tests. A copy can be created from File-> Save a copy in Drive. The Link to the Google Colaboratory is Here: 
+
+<a href = "https://colab.research.google.com/drive/1ewSAxctAXvc2YVTJQxADziLWtZ42cud4#scrollTo=eahYmfKKJ62g"> Google Colaboratory Code </>
+
+Each cell in Google Colaboratory needs to be run sequentially. In the "Convergence Curve Plot" and "Box Plot" section, the "select box" dropdown menu needs to be selected to get the desire figures. If the whole file is executed properly, a zip file will be downloaded. All the figures and output files will be inside the zip file. After Unzipping, Output file can be found at a directory like this "\EvoloPy\content\EvoloPy\2023-04-13-12-21-16"
+
+`otherwise`
 
 Run
 
@@ -55,13 +66,7 @@ Choose whether to Export the results in different formats. For example:
 export_flags = {'Export_avg':True, 'Export_details':True, 'Export_convergence':True, 'Export_boxplot':True}
 ```
 
-## Google Colaboratory
 
-The code can be run directly in Google Colaboratory. It is good practice to create a copy of the Google Colaboratory and then perform the tests. The Link to the Google Colaboratory is Here: 
-
-<div align="center">
-<a href = "https://colab.research.google.com/drive/1ewSAxctAXvc2YVTJQxADziLWtZ42cud4#scrollTo=eahYmfKKJ62g"> Click Here </>
-</div>
 
 
 
