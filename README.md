@@ -16,7 +16,7 @@ The code can be run directly in Google Colaboratory. It is good practice to crea
 
 <a href = "https://colab.research.google.com/drive/1ewSAxctAXvc2YVTJQxADziLWtZ42cud4#scrollTo=eahYmfKKJ62g" target="_blank"> Google Colaboratory Code </a>
 
-Each cell in Google Colaboratory needs to be run sequentially. In the "Convergence Curve Plot" and "Box Plot" section, the "select box" dropdown menu needs to be selected to get the desire figures. If the whole file is executed properly, a zip file will be downloaded. All the figures and output files will be inside the zip file. After Unzipping, Output file can be found at a directory like this "\EvoloPy\content\EvoloPy\2023-04-13-12-21-16"
+Each cell in Google Colaboratory needs to be run sequentially. In the "Convergence Curve Plot" and "Box Plot" section, the "select box" dropdown menu needs to be selected 03 times differently to get the desire figures. If the whole file is executed properly, a zip file will be downloaded. All the figures and output files will be inside the zip file. After Unzipping, Output file can be found at a directory like this "\EvoloPy\content\EvoloPy\2023-04-13-12-21-16"
 
 `otherwise`
 
